@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset="1" stop-color="#101b3b"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop stop-color="#45d7ff" stop-opacity=".45"/><stop offset="1" stop-color="#45d7ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="940" cy="140" r="340" fill="url(#glow)"/>
+  <circle cx="1080" cy="540" r="320" fill="url(#glow)" opacity=".5"/>
+  <path d="M80 102h12m12 0h12m12 0h12m12 0h12M80 118h80" stroke="#45d7ff" stroke-width="3" opacity=".8"/>
+  <text x="80" y="300" fill="#f8fafc" font-family="Arial, sans-serif" font-size="76" font-weight="700">Akash Kolhe</text>
+  <text x="80" y="375" fill="#9fc4ff" font-family="Arial, sans-serif" font-size="42">Cloud &amp; DevOps Engineer</text>
+  <text x="80" y="456" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="28">AWS · Terraform · Docker · Kubernetes · Linux</text>
+</svg>
+
